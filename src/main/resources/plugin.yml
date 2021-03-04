@@ -1,0 +1,4 @@
+name: HomePlugin
+version: ${project.version}
+main: net.glomc.plugins.home.HomePlugin
+api-version: 1.16
